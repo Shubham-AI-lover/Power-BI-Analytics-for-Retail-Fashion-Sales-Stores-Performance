@@ -207,3 +207,101 @@ CALCULATE (
 Profit per Product = DIVIDE([Total Profit],DISTINCTCOUNT(product_data[product_id]))
 ```
 
+# 📊 Report Pages & Visualizations 
+
+## 📊 Page 1 – Executive Sales Overview
+
+**What this page is telling**  
+
+### 1️⃣ What is the purpose of this page? (High-level)  
+This page provides a **single-screen summary of overall business performance** for leadership.  
+It answers three core executive questions:  
+   How much did we sell and earn?  
+   Are we growing compared to last year?  
+   Which categories, regions, and seasons drive revenue?  
+
+   <img width="1283" height="720" alt="1" src="https://github.com/user-attachments/assets/83485867-9b7a-4911-b4af-a9773906422f" />  
+
+  ### 2️⃣ KPI Cards – Key Business Health Indicators  
+🔹 **Total Revenue: $12.41M**  
+    Represents total sales generated across all years, regions, and categories.  
+    Indicates strong overall business volume.  
+    
+🔹 **Total Profit: $7.10M** 
+    Shows that the business is **highly profitable**, not just revenue-driven.  
+    Profit is more than 50% of revenue, indicating healthy margins.  
+    
+🔹 **Total Quantity Sold: 125K units**  
+    Confirms high product movement.  
+    Helps distinguish whether revenue is driven by volume or pricing.  
+    
+🔹 **Average Discount: 5.51%**  
+    Indicates controlled discounting.  
+    Suggests the company is **not overly dependent on heavy discounts** to drive sales. 
+    
+🔹 **Revenue YoY %: +25.06%**    
+    Strong year-over-year growth.  
+    Confirms that revenue is increasing significantly compared to the previous year.  
+    This KPI signals **business expansion and positive momentum.**  
+
+👉 **Executive takeaway:**  
+The business is growing fast, profitable, and discounting is under control.  
+
+### 3️⃣ Sales Trend by Month – Time-Based Performance  
+**What the visual shows:**  
+     Monthly revenue trend across the year.  
+     Revenue peaks around April–June, with moderate declines toward year-end.  
+
+**Insight:**  
+     There is clear seasonality in sales.  
+     Mid-year months perform better, possibly due to seasonal demand or campaigns.  
+     End-of-year revenue softens, suggesting scope for stronger Q4 promotions.  
+
+**👉 Business value:**  
+Helps leadership plan inventory, marketing campaigns, and staffing by season.  
+
+### 4️⃣ Revenue by Product Category – Product Mix Analysis  
+**What the Pie chart shows:**  
+   Revenue is **evenly distributed across categories**:  
+   Accessories, Shoes, Dresses, Tops, Bottoms  
+   Each category contributes roughly **~20% of total revenue.**  
+
+**Insight:**  
+   No single category dominates revenue.  
+   Business risk is **well diversified** across product lines.  
+   Indicates balanced product portfolio.  
+
+**👉 Business value:**  
+Reduces dependency risk and supports stable long-term growth.  
+
+### 5️⃣ Revenue by Region – Geographic Performance  
+**What the bar chart shows:**  
+    Lisbon and Algarve are top-performing regions.  
+    Coimbra and Porto follow closely, with only marginal differences.  
+
+**Insight:**  
+    Regional performance is **well balanced.**  
+    No region is significantly underperforming.  
+    Indicates consistent market penetration.  
+
+**👉 Business value:**  
+Supports confidence in regional expansion strategies and fair resource allocation.  
+
+### 6️⃣ Sales Contribution by Season – Seasonal Strategy  
+**What the donut chart shows:**  
+   All four seasons contribute almost equally:  
+   Summer, Winter, Spring, Fall ≈ 24–25% each.  
+
+**Insight:**  
+    Revenue is **not dependent on a single season**.  
+    Strong year-round demand.  
+
+**👉 Business value:**  
+Helps reduce seasonal risk and supports stable cash flow.  
+
+### 🎯 Key Executive Insights  
+The business generated **$12.41M in revenue with strong profitability.**  
+Year-over-year growth of **25.06%** indicates rapid expansion.  
+Revenue is **well diversified across product categories, regions, and seasons.**  
+Discounting remains controlled, protecting margins.  
+Clear seasonal patterns exist but do not heavily impact total performance.  
