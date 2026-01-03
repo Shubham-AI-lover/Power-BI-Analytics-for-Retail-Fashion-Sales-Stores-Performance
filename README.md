@@ -305,3 +305,87 @@ Year-over-year growth of **25.06%** indicates rapid expansion.
 Revenue is **well diversified across product categories, regions, and seasons.**  
 Discounting remains controlled, protecting margins.  
 Clear seasonal patterns exist but do not heavily impact total performance.  
+
+**The Executive Sales Overview page provides a high-level snapshot of business performance, highlighting total revenue, profitability, growth trends, and diversification across products, regions, and seasons. It enables quick decision-making for leadership by combining KPIs with trend and contribution analysis.**  
+
+## 📊 Page 2 – Product Performance Analysis  
+**What this page is telling**  
+
+### 1️⃣ Purpose of this page  
+
+This page analyzes **how products perform across categories, sizes, and seasons,** focusing on both **revenue and profitability.**  
+
+It helps answer:  
+Which product categories generate the most revenue and profit?  
+Which sizes sell the most?  
+How does seasonality impact product performance?  
+Which individual products are top performers?  
+
+<img width="1281" height="721" alt="2" src="https://github.com/user-attachments/assets/2e9a808b-9c71-4ceb-8e8f-8c5d38b4a68c" />  
+
+
+### 2️⃣ Revenue by Product Category (Bar Chart)  
+
+**What the visual shows:**  
+   Accessories and Shoes are the **top revenue-generating categories** (~$2.48–$2.49M).  
+   Dresses, Tops, and Bottoms follow closely.  
+   Revenue distribution across categories is **fairly balanced.**  
+
+**Insight:**  
+   No single category dominates sales.  
+   The business has a **diversified product portfolio**, reducing dependency risk.  
+
+**👉 Business impact:**  
+Supports balanced inventory planning and reduces category-level risk.  
+
+### 3️⃣ Sales by Product Size (Bar Chart)  
+
+**What the visual shows:**  
+   **Small (S) and Extra Large (XL)** sizes have the highest sales volume.  
+   Medium (M) and Large (L) sizes perform slightly lower.  
+
+**Insight:**  
+   Demand is skewed toward **S and XL sizes,** not the traditional M/L dominance.  
+   Indicates potential customer demographic or fit preferences.  
+
+**👉 Business impact:**  
+Helps optimize size-level inventory allocation and reduce stock-outs.  
+
+### 4️⃣ Profit by Category (Donut Chart)    
+
+**What the visual shows:**  
+   Profit contribution is evenly distributed across categories.  
+   Each category contributes roughly **~20% of total profit.**  
+   Total profit shown: **$7.10M.**  
+
+**Insight:**  
+   Revenue-heavy categories are also **profit-positive.**  
+   No category is driving profit erosion.  
+
+**👉 Business impact:**  
+Confirms pricing and discount strategies are consistent across categories.  
+
+### 5️⃣ Category × Season Matrix (Revenue Heatmap)    
+
+**What the matrix shows:**  
+   Revenue remains strong across **all seasons.**  
+   Slight seasonal shifts:  
+   Winter performs marginally better for Accessories.  
+   Shoes perform strongly in Spring and Summer.  
+   Seasonal totals are almost equal.  
+
+**Insight:**  
+   Product categories are **not season-dependent.**  
+   Business benefits from year-round demand.  
+
+**👉 Business impact:**  
+Supports stable supply chain planning and reduces seasonal volatility.  
+
+### Key Insights Summary   
+
+Revenue and profit are **evenly distributed across product categories.**  
+Certain sizes (S and XL) outperform others, guiding inventory strategy.  
+Seasonal impact on product performance is minimal.  
+A limited set of products drives a significant portion of revenue.  
+
+**The Product Performance Analysis page evaluates revenue and profit across product categories, sizes, and seasons. It identifies top-performing products, size-level demand patterns, and seasonal stability, supporting informed merchandising and inventory planning decisions.**  
