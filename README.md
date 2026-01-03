@@ -388,4 +388,326 @@ Certain sizes (S and XL) outperform others, guiding inventory strategy.
 Seasonal impact on product performance is minimal.  
 A limited set of products drives a significant portion of revenue.  
 
-**The Product Performance Analysis page evaluates revenue and profit across product categories, sizes, and seasons. It identifies top-performing products, size-level demand patterns, and seasonal stability, supporting informed merchandising and inventory planning decisions.**  
+**The Product Performance Analysis page evaluates revenue and profit across product categories, sizes, and seasons. It identifies top-performing products, size-level demand patterns, and seasonal stability, supporting informed merchandising and inventory planning decisions.**   
+
+
+## 📊 Page 3 – Customer Insights & Segmentation  
+**What this page is telling**  
+
+### 1️⃣ Purpose of this page  
+This page focuses on understanding who the customers are and how different customer segments contribute to revenue.  
+
+**It answers:**  
+How many unique customers does the business have?  
+Which genders and age groups generate more revenue?  
+Which cities contribute the most to sales?  
+How does customer behavior vary across time and demographics? 
+
+<img width="1284" height="719" alt="3" src="https://github.com/user-attachments/assets/eedf9853-97fb-43b6-a10f-2bcd98d2d617" />  
+
+
+### 2️⃣ Total Customers KPI  
+
+🔹**Total Customers: 21,276**  
+Represents the total number of **unique customers** in the dataset.    
+Indicates a **large and diversified customer base**.  
+
+**👉 Business value:**  
+Helps leadership understand market reach and customer scale.  
+
+### 3️⃣ Revenue by Customer City (Map Visual)    
+**What the map shows:**    
+   Revenue concentration across major cities such as **Lisbon, Porto, Coimbra, Faro, and Braga.**    
+   Larger bubbles indicate higher revenue contribution.    
+
+**Insight:**  
+   Sales are **geographically** concentrated in urban and commercial hubs.  
+   Lisbon and Faro emerge as key revenue-driving cities.  
+
+**👉 Business value:**  
+Supports targeted regional marketing, store placement, and city-specific promotions.  
+
+### 4️⃣ Revenue by Gender (Bar Chart)  
+
+**What the visual shows:**    
+
+Revenue is fairly balanced across:  
+  Male (~$4.0M)  
+  Female (~$3.8M)  
+  Other / Unspecified (~$4.1M)  
+
+**Insight:**  
+No single gender group dominates revenue.  
+“Other / Unspecified” customers contribute significantly, justifying why these records were retained and labeled rather than removed.  
+
+**👉 Business value:**  
+Supports inclusive marketing strategies and validates data-retention decisions.  
+
+### 5️⃣ Revenue by Age Group (Bar Chart)  
+**What the visual shows:**    
+
+**46–60 age group** generates the highest revenue (~$3.3M).  
+
+Strong contributions from:  
+  36–45 (~$2.3M)  
+  26–35 (~$2.2M)  
+
+Lower contribution from:  
+   60–70 (~$2.0M)  
+
+**Insight:**  
+
+Middle-aged customers (36–60) are the **most valuable segment.**  
+Younger customers contribute steadily but at lower levels.  
+
+**👉 Business value:**  
+Enables targeted promotions, pricing strategies, and loyalty programs for high-value age groups.  
+
+### 6️⃣ Use of Slicers (Segmentation Power)  
+
+**Slicers included:**  
+   Gender  
+   Age Group  
+   Year  
+   City  
+
+**Insight:**  
+Allows dynamic exploration of customer behavior.  
+Business users can instantly analyze:  
+Gender trends by year  
+Age group performance by city  
+Customer behavior changes over time  
+
+**👉 Business value:**  
+Empowers self-service analytics for marketing and sales teams.  
+
+### 🎯 Key Customer Insights  
+   The business serves over **21K** unique customers.  
+   Revenue is well distributed across genders, indicating broad market appeal.  
+   Customers aged **46–60** are the highest revenue contributors.  
+   Sales are geographically concentrated in major cities.  
+   Customer segmentation enables targeted and data-driven decision-making.  
+
+   **The Customer Insights & Segmentation page analyzes customer demographics and geographic distribution to identify high-value segments. It highlights revenue contribution by gender, age group, and city, enabling targeted marketing and customer-focused business strategies.**  
+
+
+## 📊 Page 4 – Store & Region Performance   
+**What this page is telling**   
+
+### 1️⃣ Purpose of this page  
+
+This page evaluates **how different stores and regions perform,** focusing on:    
+  Revenue contribution    
+  Regional balance    
+  Store efficiency (size vs performance)    
+  Monthly regional trends    
+
+It helps answer:    
+  Which stores and regions generate the most revenue?    
+  Are larger stores always more successful?    
+  How does regional performance change over time?    
+
+  <img width="1279" height="723" alt="4" src="https://github.com/user-attachments/assets/14fd74e4-603c-4ec6-96d3-4b2ecaf8d04d" />
+
+
+### 2️⃣ Revenue by Store (Pie Chart)    
+
+**What the visual shows:**     
+  Revenue contribution is evenly distributed across stores:  
+  Lisbon Flagship  
+  Faro Outlet  
+  Coimbra Boutique  
+  Porto Center  
+  Online store  
+  Each store contributes roughly **~20% of total revenue.**  
+
+**Insight:**  
+  No single store dominates revenue.  
+  Indicates a **well-balanced retail network.**  
+
+**👉 Business value:**    
+Reduces dependency risk and suggests consistent store-level performance.   
+
+### 3️⃣ Revenue by Region (Treemap) 
+
+**What the visual shows:**  
+Lisbon and Algarve lead regional revenue.  
+Coimbra and Porto follow closely.  
+Online channel contributes a comparable share.  
+
+**Insight:**   
+   Regional performance is **well distributed,** with no major underperforming region.  
+   Physical and online channels complement each other.  
+
+**👉 Business value:**  
+Supports confidence in regional and omnichannel strategy.  
+
+### 4️⃣ Store Size vs Revenue (Scatter Chart – Key Insight)  
+
+**What the visual shows:**  
+  Larger stores do **not always generate higher revenue.**  
+  Some medium-sized stores outperform larger ones.  
+  Online store achieves high revenue without physical size constraints.  
+
+**Insight:**  
+  **Store efficiency matters more than store size.**  
+  Revenue per square meter is a more meaningful metric than total size.  
+
+**👉 Business value:**  
+Guides decisions on store expansion, optimization, and cost control.  
+
+### 5️⃣ Monthly Revenue Trend by Region (Line Chart)  
+
+**What the visual shows:**  
+  Monthly revenue trends vary across regions.  
+  Clear seasonal fluctuations exist, but:   
+  No region consistently underperforms across the year.  
+
+**Insight:**  
+   Regional demand patterns differ slightly by month.  
+   Allows identification of peak months for specific regions.  
+
+**👉 Business value:**  
+Supports region-specific promotions, staffing, and inventory planning.  
+
+### 🎯 Key Store & Region Insights   
+  Revenue is evenly distributed across stores and regions.  
+  Larger store size does not guarantee higher revenue.  
+  Medium-sized and online stores show strong efficiency.  
+  Regional performance remains stable throughout the year.  
+  Store efficiency should be prioritized over physical expansion.  
+
+**The Store & Region Performance page analyzes revenue distribution across stores and regions, evaluates store efficiency using size-to-revenue analysis, and highlights monthly regional performance trends to support operational and expansion decisions.**  
+
+📊 Page 5 – Discount & Pricing Impact Analysis
+What this page is telling
+1️⃣ Purpose of this page
+
+This page analyzes how discounting impacts revenue and profitability, helping the business answer:
+
+Do higher discounts really increase revenue?
+
+Which discount levels are profitable?
+
+Which categories rely more on discounts?
+
+How discounting behavior changes over time?
+
+This page is critical for pricing strategy and margin protection.
+
+2️⃣ Discount Impact on Revenue & Profit by Category (Scatter Chart)
+What the visual shows:
+
+Each point represents a product category
+
+X-axis: Average Discount %
+
+Y-axis: Total Revenue
+
+Bubble size: Total Profit
+
+Insight:
+
+Categories with slightly higher discounts (~5.6–5.7%) do not always generate significantly higher revenue.
+
+Some categories achieve strong revenue and profit with moderate discounts.
+
+Profit bubble sizes vary, showing that revenue does not always translate into profit.
+
+👉 Business value:
+Helps identify optimal discount levels and avoid unnecessary margin erosion.
+
+3️⃣ Average Discount % by Category (Donut Chart)
+What the visual shows:
+
+Average discount across categories is tightly clustered around ~5–5.6%.
+
+No category is heavily discounted compared to others.
+
+Overall average discount: 5.51%.
+
+Insight:
+
+Discounting strategy is consistent and controlled across categories.
+
+No category relies on aggressive discounting to drive sales.
+
+👉 Business value:
+Confirms disciplined pricing strategy and strong brand positioning.
+
+4️⃣ Profit by Discount Range (Bar Chart – Key Insight)
+What the visual shows:
+
+0% discount generates the highest profit (~$5.1M).
+
+Profit declines sharply as discounts increase:
+
+1–10% → ~$1.3M
+
+11–20% → ~$0.5M
+
+21–30% → ~$0.2M
+
+Insight:
+
+Higher discounts significantly reduce profitability.
+
+Discounting beyond 10% provides diminishing returns.
+
+👉 Business value:
+Strong evidence to limit high discount campaigns and focus on value-based pricing.
+
+5️⃣ Discount Trend Over Time (Line Chart)
+What the visual shows:
+
+Discount levels fluctuate slightly throughout the year.
+
+Mild increase during mid-year and festive months.
+
+No extreme discount spikes.
+
+Insight:
+
+Discounting is used strategically, likely aligned with campaigns or seasonal demand.
+
+The business avoids heavy discounting even during peak seasons.
+
+👉 Business value:
+Supports sustainable long-term profitability.
+
+6️⃣ Role of Slicers (Controlled Analysis)
+Slicers included:
+
+Year
+
+Product Category
+
+Discount Range
+
+Insight:
+
+Enables granular analysis, such as:
+
+Profitability of a category at a specific discount level
+
+Year-wise discount behavior
+
+Impact of discount range on revenue and profit
+
+👉 Business value:
+Supports data-driven pricing and promotional decisions.
+
+🎯 Key Discount & Pricing Insights (Bullet-ready)
+
+You can directly use these:
+
+Higher discounts do not guarantee higher revenue.
+
+Zero or low discount sales generate the highest profit.
+
+Discounting above 10% significantly erodes margins.
+
+Average discount levels are consistent and well-controlled.
+
+Discount strategy appears intentional rather than reactive.
+
