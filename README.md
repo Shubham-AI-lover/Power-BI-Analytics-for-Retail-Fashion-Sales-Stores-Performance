@@ -435,8 +435,8 @@ Supports targeted regional marketing, store placement, and city-specific promoti
 **What the visual shows:**    
 
 Revenue is fairly balanced across:  
-  Male (~$4.0M)  
-  Female (~$3.8M)  
+  Male (~ $4.0M)  
+  Female (~ $3.8M)  
   Other / Unspecified (~$4.1M)  
 
 **Insight:**  
@@ -452,8 +452,8 @@ Supports inclusive marketing strategies and validates data-retention decisions.
 **46–60 age group** generates the highest revenue (~$3.3M).  
 
 Strong contributions from:  
-  36–45 (~$2.3M)  
-  26–35 (~$2.2M)  
+  36–45 (~ $2.3M)  
+  26–35 (~ $2.2M)  
 
 Lower contribution from:  
    60–70 (~$2.0M)  
